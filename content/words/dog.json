@@ -1,0 +1,16 @@
+{
+  "say": "dog",
+  "role": "object",
+  "level": 2,
+  "categories": [
+    "animals"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "dog"
+  ],
+  "next": {
+    "please": 3
+  }
+}

@@ -1,0 +1,17 @@
+Things
+home
+tone object
+ball
+book
+blocks
+doll
+phone
+computer
+tv
+music
+door
+window
+clock
+paper
+pencil
+money

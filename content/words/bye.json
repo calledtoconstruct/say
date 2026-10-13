@@ -1,0 +1,11 @@
+{
+  "say": "bye",
+  "role": "social",
+  "categories": [
+    "people"
+  ],
+  "next": {
+    "mom": 3,
+    "dad": 3
+  }
+}

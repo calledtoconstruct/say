@@ -1,0 +1,16 @@
+{
+  "say": "paper",
+  "role": "object",
+  "level": 4,
+  "categories": [
+    "things"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "paper"
+  ],
+  "next": {
+    "please": 3
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "say": "proud",
+  "role": "feeling",
+  "level": 4,
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "proud"
+  ],
+  "next": {
+    "please": 3
+  }
+}

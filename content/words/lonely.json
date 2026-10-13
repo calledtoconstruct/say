@@ -1,0 +1,15 @@
+{
+  "say": "lonely",
+  "role": "feeling",
+  "level": 4,
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "lonely"
+  ],
+  "next": {
+    "please": 3
+  }
+}

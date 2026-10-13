@@ -1,0 +1,16 @@
+{
+  "say": "window",
+  "role": "object",
+  "level": 3,
+  "categories": [
+    "things"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "window"
+  ],
+  "next": {
+    "please": 3
+  }
+}

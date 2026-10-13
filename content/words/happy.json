@@ -1,0 +1,14 @@
+{
+  "say": "happy",
+  "role": "feeling",
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "happy"
+  ],
+  "next": {
+    "please": 2
+  }
+}

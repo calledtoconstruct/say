@@ -1,0 +1,11 @@
+{
+  "say": "tooth",
+  "role": "object",
+  "level": 3,
+  "categories": [
+    "body"
+  ],
+  "next": {
+    "please": 3
+  }
+}

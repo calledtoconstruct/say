@@ -1,0 +1,18 @@
+{
+  "say": "more",
+  "role": "social",
+  "categories": [
+    "needs"
+  ],
+  "starter": 4.0,
+  "phrase": [
+    "more",
+    "please"
+  ],
+  "next": {
+    "water": 4,
+    "juice": 3,
+    "please": 4,
+    "cookie": 3
+  }
+}

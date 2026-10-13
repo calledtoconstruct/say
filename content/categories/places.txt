@@ -1,0 +1,21 @@
+Places
+home
+tone place
+go
+home
+outside
+play
+see
+school
+park
+store
+car
+bed
+library
+playground
+bus
+bath
+beach
+farm
+restaurant
+hospital

@@ -1,0 +1,16 @@
+{
+  "say": "listen",
+  "role": "verb",
+  "level": 3,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "listen"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

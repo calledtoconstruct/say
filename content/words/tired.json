@@ -1,0 +1,14 @@
+{
+  "say": "tired",
+  "role": "feeling",
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "tired"
+  ],
+  "next": {
+    "home": 3
+  }
+}

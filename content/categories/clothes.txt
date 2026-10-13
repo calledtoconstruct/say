@@ -1,0 +1,9 @@
+Clothes
+home
+tone object
+shoes
+shirt
+pants
+coat
+dress
+socks

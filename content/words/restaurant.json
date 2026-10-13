@@ -1,0 +1,16 @@
+{
+  "say": "restaurant",
+  "role": "place",
+  "level": 4,
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go",
+    "restaurant"
+  ],
+  "next": {
+    "please": 3
+  }
+}

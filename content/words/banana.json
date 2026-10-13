@@ -1,0 +1,15 @@
+{
+  "say": "banana",
+  "role": "object",
+  "categories": [
+    "food"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "banana"
+  ],
+  "next": {
+    "please": 4
+  }
+}

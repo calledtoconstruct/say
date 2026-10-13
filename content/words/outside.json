@@ -1,0 +1,15 @@
+{
+  "say": "outside",
+  "role": "place",
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go",
+    "outside"
+  ],
+  "next": {
+    "please": 3
+  }
+}

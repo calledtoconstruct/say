@@ -1,0 +1,14 @@
+{
+  "say": "hurt",
+  "role": "feeling",
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "hurt"
+  ],
+  "next": {
+    "help": 5
+  }
+}

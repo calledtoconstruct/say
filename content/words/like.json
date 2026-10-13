@@ -1,0 +1,17 @@
+{
+  "say": "like",
+  "role": "verb",
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "like"
+  ],
+  "next": {
+    "apple": 4,
+    "cookie": 4,
+    "play": 4,
+    "outside": 3
+  }
+}

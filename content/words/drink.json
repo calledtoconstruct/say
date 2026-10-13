@@ -1,0 +1,18 @@
+{
+  "say": "drink",
+  "role": "verb",
+  "categories": [
+    "food"
+  ],
+  "closes": true,
+  "phrase": [
+    "i",
+    "want",
+    "drink"
+  ],
+  "next": {
+    "water": 6,
+    "milk": 5,
+    "juice": 5
+  }
+}

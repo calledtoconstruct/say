@@ -1,0 +1,16 @@
+{
+  "say": "read",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "read"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

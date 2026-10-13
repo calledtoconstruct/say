@@ -1,0 +1,16 @@
+{
+  "say": "walk",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "walk"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "say": "play",
+  "role": "verb",
+  "categories": [
+    "places"
+  ],
+  "closes": true,
+  "phrase": [
+    "i",
+    "want",
+    "play"
+  ],
+  "next": {
+    "outside": 4,
+    "home": 2
+  }
+}

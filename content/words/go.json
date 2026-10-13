@@ -1,0 +1,16 @@
+{
+  "say": "go",
+  "role": "verb",
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go"
+  ],
+  "next": {
+    "home": 6,
+    "outside": 6,
+    "play": 3
+  }
+}

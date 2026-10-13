@@ -1,0 +1,16 @@
+{
+  "say": "stand",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "stand"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

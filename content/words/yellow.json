@@ -1,0 +1,16 @@
+{
+  "say": "yellow",
+  "role": "object",
+  "level": 2,
+  "categories": [
+    "colors"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "yellow"
+  ],
+  "next": {
+    "please": 3
+  }
+}

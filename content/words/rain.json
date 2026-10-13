@@ -1,0 +1,16 @@
+{
+  "say": "rain",
+  "role": "object",
+  "level": 3,
+  "categories": [
+    "weather"
+  ],
+  "phrase": [
+    "i",
+    "see",
+    "rain"
+  ],
+  "next": {
+    "please": 3
+  }
+}

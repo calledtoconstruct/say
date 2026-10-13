@@ -1,0 +1,15 @@
+{
+  "say": "home",
+  "role": "place",
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go",
+    "home"
+  ],
+  "next": {
+    "please": 3
+  }
+}

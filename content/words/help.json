@@ -1,0 +1,22 @@
+{
+  "say": "help",
+  "role": "verb",
+  "categories": [
+    "needs"
+  ],
+  "also": [
+    "social"
+  ],
+  "starter": 6.0,
+  "closes": true,
+  "phrase": [
+    "i",
+    "need",
+    "help"
+  ],
+  "next": {
+    "please": 4,
+    "mom": 3,
+    "dad": 3
+  }
+}

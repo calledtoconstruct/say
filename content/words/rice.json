@@ -1,0 +1,16 @@
+{
+  "say": "rice",
+  "role": "object",
+  "level": 2,
+  "categories": [
+    "food"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "rice"
+  ],
+  "next": {
+    "please": 3
+  }
+}

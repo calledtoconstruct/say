@@ -1,0 +1,16 @@
+{
+  "say": "know",
+  "role": "verb",
+  "level": 4,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "know"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

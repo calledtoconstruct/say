@@ -1,0 +1,10 @@
+{
+  "say": "please",
+  "role": "polite",
+  "categories": [
+    "feelings"
+  ],
+  "next": {
+    "thank you": 2
+  }
+}

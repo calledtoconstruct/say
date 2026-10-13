@@ -1,0 +1,16 @@
+{
+  "say": "car",
+  "role": "place",
+  "level": 2,
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go",
+    "car"
+  ],
+  "next": {
+    "please": 3
+  }
+}

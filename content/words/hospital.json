@@ -1,0 +1,16 @@
+{
+  "say": "hospital",
+  "role": "place",
+  "level": 4,
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go",
+    "hospital"
+  ],
+  "next": {
+    "please": 3
+  }
+}

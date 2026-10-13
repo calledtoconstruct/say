@@ -1,0 +1,13 @@
+Colors
+home
+tone object
+red
+blue
+yellow
+green
+purple
+pink
+black
+white
+brown
+orange color

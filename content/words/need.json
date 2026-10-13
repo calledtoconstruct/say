@@ -1,0 +1,18 @@
+{
+  "say": "need",
+  "role": "verb",
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "need"
+  ],
+  "next": {
+    "help": 6,
+    "water": 5,
+    "bathroom": 5,
+    "mom": 3,
+    "dad": 3
+  }
+}

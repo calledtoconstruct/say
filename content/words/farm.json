@@ -1,0 +1,16 @@
+{
+  "say": "farm",
+  "role": "place",
+  "level": 4,
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "go",
+    "farm"
+  ],
+  "next": {
+    "please": 3
+  }
+}

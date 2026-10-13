@@ -1,0 +1,16 @@
+{
+  "say": "come",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "come"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

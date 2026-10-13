@@ -1,0 +1,7 @@
+{
+  "say": "Pause",
+  "role": "social",
+  "level": 1,
+  "repeat": true,
+  "categories": ["answers"]
+}

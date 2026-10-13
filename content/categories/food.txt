@@ -1,0 +1,31 @@
+Food
+home
+tone object
+eat
+drink
+apple
+banana
+cookie
+bread
+milk
+juice
+water
+pizza
+chicken
+rice
+egg
+cheese
+yogurt
+cracker
+cereal
+snack
+cup
+spoon
+soup
+sandwich
+pasta
+fish
+orange
+grapes
+carrot
+ice cream

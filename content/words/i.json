@@ -1,0 +1,19 @@
+{
+  "say": "I",
+  "role": "person",
+  "categories": [
+    "people"
+  ],
+  "starter": 8.0,
+  "next": {
+    "want": 6,
+    "need": 5,
+    "like": 5,
+    "see": 4,
+    "go": 4,
+    "happy": 2,
+    "sad": 2,
+    "tired": 2,
+    "hurt": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "say": "bored",
+  "role": "feeling",
+  "level": 4,
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "bored"
+  ],
+  "next": {
+    "please": 3
+  }
+}

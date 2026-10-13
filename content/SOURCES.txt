@@ -1,0 +1,214 @@
+Picture sources
+
+Most pictures are Mulberry Symbols 3.6.1 by Steve Lee.
+They are Creative Commons Attribution-ShareAlike 4.0.
+https://mulberrysymbols.org/
+https://github.com/mulberrysymbols/mulberry-symbols
+https://creativecommons.org/licenses/by-sa/4.0/
+The upstream license is licenses/Mulberry-Symbols-LICENSE.txt.
+Share any copy or change of those pictures under the same license, and say they came from Mulberry Symbols.
+
+Pictures drawn for this board, where Mulberry had no clear symbol, use the same license so the folder can be shared together.
+
+A photograph replaces the symbol when it sits beside the word file.
+Use the word id as the file name: mom.jpg, mom.png, mom.gif, mom.webp, or mom.avif.
+The native app also accepts bmp, tif, and tiff through ImageMagick.
+SVG and PNG do not need ImageMagick. Other photographs do, on the native app.
+The web page shows the file in the picture itself.
+
+Mulberry file used for each word
+
+brother: brother.svg
+sister: sister.svg
+baby: baby.svg
+teacher: teacher_1a.svg
+doctor: doctor_1a.svg
+nurse: nurse_1a.svg
+come: come_,_to.svg
+look: look_,_to.svg
+open: open.svg
+close: close_,_to.svg
+sit: sit_,_to.svg
+stand: stand_,_to.svg
+wash: wash_hands_,_to.svg
+read: read_,_to.svg
+give: give_,_to.svg
+get: get_,_to.svg
+put: put_,_to.svg
+turn: turn_,_to.svg
+walk: walk_,_to.svg
+run: run_,_to.svg
+talk: talk_1_,_to.svg
+sing: sing_,_to.svg
+draw: draw_,_to.svg
+hug: hug_,_to.svg
+push: push_,_to.svg
+pull: pull_,_to.svg
+catch: catch_,_to.svg
+think: think_,_to.svg
+share: share_,_to.svg
+pizza: pizza.svg
+chicken: chicken.svg
+rice: rice.svg
+egg: egg.svg
+cheese: cheese.svg
+yogurt: yogurt.svg
+cracker: cracker.svg
+cereal: cereal.svg
+snack: crisps.svg
+cup: mug_2.svg
+spoon: spoon.svg
+soup: soup.svg
+sandwich: sandwich.svg
+pasta: pasta.svg
+fish: fish.svg
+orange: orange.svg
+grapes: grapes.svg
+carrot: carrot.svg
+ice cream: ice_cream.svg
+love: heart.svg
+hot: hot.svg
+school: school.svg
+park: tree.svg
+store: shop.svg
+car: car.svg
+bed: single_bed.svg
+playground: swing.svg
+bus: bus.svg
+bath: bath.svg
+beach: beach.svg
+wait: wait_,_to.svg
+head: head.svg
+tummy: stomach.svg
+hand: left_hand.svg
+ear: ear.svg
+tooth: tooth.svg
+leg: leg.svg
+foot: foot.svg
+eye: eye.svg
+mouth: mouth.svg
+dog: dog.svg
+cat: cat.svg
+bird: bird.svg
+horse: horse.svg
+cow: cow.svg
+duck: duck.svg
+rabbit: rabbit.svg
+red: red.svg
+blue: blue.svg
+yellow: yellow.svg
+green: green.svg
+purple: purple.svg
+pink: pink.svg
+black: black.svg
+white: white.svg
+brown: brown.svg
+shoes: trainers.svg
+shirt: shirt.svg
+pants: pants.svg
+coat: coat.svg
+dress: dress.svg
+socks: socks.svg
+what: what.svg
+where: where.svg
+who: who.svg
+why: why.svg
+when: when.svg
+how: how.svg
+little: little.svg
+good: good.svg
+bad: bad.svg
+heavy: heavy.svg
+quiet: quiet.svg
+now: now.svg
+today: today.svg
+tomorrow: tomorrow.svg
+rain: rain.svg
+sun: sun.svg
+snow: snow.svg
+ball: ball.svg
+book: notebook.svg
+blocks: bricks.svg
+doll: doll.svg
+phone: mobile_phone.svg
+computer: computer_1.svg
+tv: flatscreen_tv.svg
+music: music.svg
+door: door.svg
+window: window.svg
+clock: clock.svg
+paper: paper.svg
+pencil: pencil.svg
+money: money.svg
+one: one.svg
+two: two.svg
+three: three.svg
+four: four.svg
+five: five.svg
+water: water.svg
+milk: milk.svg
+apple: apple.svg
+banana: banana.svg
+bread: bread.svg
+cookie: biscuit_chocolate_chip.svg
+drink: drink_,_to.svg
+eat: eat_,_to.svg
+play: play_,_to.svg
+go: go_,_to.svg
+home: house.svg
+outside: outside.svg
+bathroom: toilet.svg
+hi: hello.svg
+mom: mum_parent.svg
+dad: dad_parent.svg
+help: help_,_to.svg
+
+and: drawn for this board
+or: drawn for this board
+
+Drawn for this board
+
+grandma
+grandpa
+friend
+boy
+girl
+we
+they
+it
+my
+sleep
+listen
+throw
+know
+try
+angry
+scared
+sick
+excited
+cold
+worried
+proud
+lonely
+bored
+surprised
+frustrated
+library
+farm
+restaurant
+hospital
+sorry
+okay
+nose
+orange color
+big
+fast
+slow
+new
+old
+loud
+dirty
+clean
+later
+wind
+juice

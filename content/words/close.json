@@ -1,0 +1,15 @@
+{
+  "say": "close",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "close"
+  ],
+  "next": {
+    "please": 2
+  }
+}

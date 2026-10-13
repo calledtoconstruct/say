@@ -1,0 +1,13 @@
+{
+  "say": "you",
+  "role": "person",
+  "categories": [
+    "people"
+  ],
+  "starter": 6.0,
+  "next": {
+    "want": 3,
+    "help": 4,
+    "go": 3
+  }
+}

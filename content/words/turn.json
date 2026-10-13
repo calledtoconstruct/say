@@ -1,0 +1,15 @@
+{
+  "say": "turn",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "turn"
+  ],
+  "next": {
+    "please": 2
+  }
+}

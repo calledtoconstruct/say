@@ -1,0 +1,17 @@
+{
+  "say": "see",
+  "role": "verb",
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "see"
+  ],
+  "next": {
+    "mom": 5,
+    "dad": 5,
+    "home": 3,
+    "outside": 3
+  }
+}

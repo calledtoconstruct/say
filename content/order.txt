@@ -1,0 +1,16 @@
+people
+needs
+food
+feelings
+places
+answers
+animals
+clothes
+body
+colors
+questions
+describe
+time
+weather
+things
+numbers

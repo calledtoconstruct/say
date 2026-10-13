@@ -1,0 +1,19 @@
+{
+  "say": "eat",
+  "role": "verb",
+  "categories": [
+    "food"
+  ],
+  "closes": true,
+  "phrase": [
+    "i",
+    "want",
+    "eat"
+  ],
+  "next": {
+    "apple": 5,
+    "banana": 5,
+    "cookie": 5,
+    "bread": 4
+  }
+}

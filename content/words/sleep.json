@@ -1,0 +1,16 @@
+{
+  "say": "sleep",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "sleep"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

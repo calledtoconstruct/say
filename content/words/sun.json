@@ -1,0 +1,16 @@
+{
+  "say": "sun",
+  "role": "object",
+  "level": 3,
+  "categories": [
+    "weather"
+  ],
+  "phrase": [
+    "i",
+    "see",
+    "sun"
+  ],
+  "next": {
+    "please": 3
+  }
+}

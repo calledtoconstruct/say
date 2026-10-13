@@ -1,0 +1,16 @@
+{
+  "say": "sing",
+  "role": "verb",
+  "level": 3,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "sing"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

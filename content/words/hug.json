@@ -1,0 +1,16 @@
+{
+  "say": "hug",
+  "role": "verb",
+  "level": 3,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "hug"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

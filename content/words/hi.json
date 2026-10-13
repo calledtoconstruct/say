@@ -1,0 +1,12 @@
+{
+  "say": "hi",
+  "role": "social",
+  "categories": [
+    "people"
+  ],
+  "starter": 3.0,
+  "next": {
+    "mom": 4,
+    "dad": 4
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "say": "bathroom",
+  "role": "object",
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "need",
+    "bathroom"
+  ]
+}

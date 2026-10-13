@@ -1,0 +1,16 @@
+{
+  "say": "dress",
+  "role": "object",
+  "level": 3,
+  "categories": [
+    "clothes"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "dress"
+  ],
+  "next": {
+    "please": 3
+  }
+}

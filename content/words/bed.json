@@ -1,0 +1,16 @@
+{
+  "say": "bed",
+  "role": "place",
+  "level": 2,
+  "categories": [
+    "places"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "bed"
+  ],
+  "next": {
+    "please": 3
+  }
+}

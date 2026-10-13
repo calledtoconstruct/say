@@ -1,0 +1,16 @@
+{
+  "say": "wash",
+  "role": "verb",
+  "level": 2,
+  "categories": [
+    "needs"
+  ],
+  "phrase": [
+    "i",
+    "wash"
+  ],
+  "closes": true,
+  "next": {
+    "please": 2
+  }
+}

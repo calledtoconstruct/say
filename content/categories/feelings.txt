@@ -1,0 +1,25 @@
+Feelings
+home
+tone feeling
+happy
+sad
+tired
+hurt
+like
+please
+thank you
+angry
+scared
+sick
+excited
+love
+cold
+hot
+worried
+proud
+lonely
+bored
+surprised
+frustrated
+sorry
+okay

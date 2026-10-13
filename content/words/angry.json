@@ -1,0 +1,15 @@
+{
+  "say": "angry",
+  "role": "feeling",
+  "level": 2,
+  "categories": [
+    "feelings"
+  ],
+  "phrase": [
+    "i",
+    "angry"
+  ],
+  "next": {
+    "please": 3
+  }
+}

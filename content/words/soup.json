@@ -1,0 +1,16 @@
+{
+  "say": "soup",
+  "role": "object",
+  "level": 3,
+  "categories": [
+    "food"
+  ],
+  "phrase": [
+    "i",
+    "want",
+    "soup"
+  ],
+  "next": {
+    "please": 3
+  }
+}

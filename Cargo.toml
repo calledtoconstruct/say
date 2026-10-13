@@ -1,0 +1,17 @@
+[package]
+name = "say"
+version = "0.1.0"
+edition = "2021"
+description = "Picture talker for a child, with a parent setup, using the Tobii gaze daemon."
+license = "MIT"
+publish = false
+
+[dependencies]
+gtk4 = "0.9"
+cairo-rs = { version = "0.20", features = ["png"] }
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+
+[lib]
+name = "say"
+path = "src/lib.rs"

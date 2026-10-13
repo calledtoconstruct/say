@@ -1,0 +1,26 @@
+{
+  "say": "want",
+  "role": "verb",
+  "categories": [
+    "needs"
+  ],
+  "starter": 5.0,
+  "phrase": [
+    "i",
+    "want"
+  ],
+  "next": {
+    "water": 6,
+    "milk": 4,
+    "juice": 4,
+    "apple": 5,
+    "banana": 4,
+    "cookie": 4,
+    "bread": 3,
+    "more": 4,
+    "help": 4,
+    "play": 3,
+    "home": 3,
+    "outside": 3
+  }
+}
